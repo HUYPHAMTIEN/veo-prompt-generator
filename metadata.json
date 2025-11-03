@@ -1,0 +1,5 @@
+{
+  "name": "Veo Prompt Generator",
+  "description": "Upload multiple images with descriptions to generate creative video prompts for Veo 3 using the Gemini API.",
+  "requestFramePermissions": []
+}
